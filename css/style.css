@@ -130,11 +130,14 @@ body {
 .media-buttons .link:hover {
     transform: scale(1.05);
 }
-
-.languages img{
+.languages{
     margin-top: 20px;
-    /* padding: 2px; */
+
 }
+/* 
+.languages img{
+
+} */
 
 .profile-card .buttons {
     display: flex;
