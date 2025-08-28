@@ -131,6 +131,11 @@ body {
     transform: scale(1.05);
 }
 
+.languages img{
+    margin-top: 20px;
+    /* padding: 2px; */
+}
+
 .profile-card .buttons {
     display: flex;
     align-items: center;
